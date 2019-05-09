@@ -1,0 +1,1 @@
+Problem: write down numbers from 1 to N in a paper, in total how many digit one has to write

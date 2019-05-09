@@ -1,0 +1,2 @@
+viet chuong trinh nhap vao ban phim n so nguyen va in ra gia tri nho nhat vua nhap vao
+Not using array!

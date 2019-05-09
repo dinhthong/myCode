@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1515035715 source:c:\users\nguye\documents\c programming\# quick tests\quicktest_main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1511226598 source:c:\users\nguye\documents\c programming\c_solvemath\olympia1.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1511196060 source:c:\users\nguye\documents\c programming\c_solvemath\olympia1_1.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+
