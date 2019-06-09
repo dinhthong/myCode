@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 #include <math.h>
 #include <string.h>
 int main()
@@ -7,7 +6,7 @@ int main()
 	int *pint1, *pint2;
 	long int a[5];
 	char d;
-	for (int i=0;i<=4;i++)
+	for (int i=0; i<=4; i++)
 	{
 		a[i]=i+3;
 		printf("a%d is %d\r\n",i,a[i]);
