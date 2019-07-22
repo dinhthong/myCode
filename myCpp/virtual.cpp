@@ -1,5 +1,6 @@
 /*
 https://www.learncpp.com/cpp-tutorial/122-virtual-functions/
+Virtual is used in order to achieve runtime polymorphism in C++. The ardupilot get_HAL uses this to abstract the hal object.
 */
 #include <iostream> 
 using namespace std; 
