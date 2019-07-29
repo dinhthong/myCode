@@ -1,5 +1,6 @@
 /* 
 https://www.geeksforgeeks.org/friend-class-function-cpp/
+https://www.learncpp.com/cpp-tutorial/813-friend-functions-and-classes/
 a Class can declare many other classes/functions as its friend.
 */
 #include <iostream>
